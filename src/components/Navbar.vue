@@ -27,7 +27,7 @@
                 links: [{
                         icon: 'account_box',
                         text: 'Users',
-                        route: '/Users_Resource'
+                        route: '/'
                     },
                     {
                         icon: 'table_chart',

@@ -26,7 +26,7 @@ export default new Router({
       component: () => import(/* webpackChunkName: "Post_Resource" */ './views/Posts_Resource.vue')
     },
     {
-      path: '/Users_Resource',
+      path: '/',
       name: 'Users_Resource',
       component: () => import(/* webpackChunkName: "Users_Resource" */ './views/Users_Resource.vue')
     },
